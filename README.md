@@ -50,7 +50,7 @@ A responsive website to showcase handmade resin art and personalized gifts for a
 - Frontend deployed on Vercel, backend on Render
 
 **Stack:** React.js, Node.js, Express.js, MongoDB, Cloudinary
-[Live Demo](YOUR-LIVE-LINK) | [Code](YOUR-REPO-LINK)
+[Live Demo](https://resinbyme.vercel.app/) | [Code](YOUR-REPO-LINK)
 
 ### E-Learning Platform
 A responsive full-stack learning platform with a focus on clear navigation and course discovery.
