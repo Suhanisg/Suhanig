@@ -41,7 +41,7 @@ A free seat-booking website for a community movie screening, built mobile-first 
 - Simple admin panel to view all bookings and cancel a booking, which frees the seats again
 
 **Stack:** React (Vite), Node.js, Express, MongoDB
-[Live Demo](YOUR-LIVE-LINK) | [Code](YOUR-REPO-LINK)
+[Live Demo](https://movie-booking-taupe.vercel.app/) | [Code](https://github.com/Suhanisg/Movie-booking)
 
 ### Resin Creations - Product Showcase Website
 A responsive website to showcase handmade resin art and personalized gifts for a real business.
@@ -59,7 +59,7 @@ A responsive full-stack learning platform with a focus on clear navigation and c
 - MongoDB for user profiles, course materials and enrollment data
 
 **Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB
-[Code](YOUR-REPO-LINK)
+[Code](https://github.com/Suhanisg/E-learning-Website)
 
 ### Expense Tracker
 A finance management app to track income, expenses, categories and spending trends.
@@ -68,7 +68,7 @@ A finance management app to track income, expenses, categories and spending tren
 - CSV report export
 
 **Stack:** React.js, Node.js, Express, MongoDB, Chart.js
-[Code](YOUR-REPO-LINK)
+[Code](https://github.com/Suhanisg/Expense_Tracker)
 
 ### Stock Price Prediction Tool
 Machine learning models (Linear Regression and LSTM) that forecast stock prices from historical and API-based data, with predicted vs actual trend visualizations and model comparison.
@@ -85,7 +85,7 @@ A mobile-first product page design for a client's brand, based on the client's o
 - Warm, modern look built from the brand palette
 
 **Tool:** Figma
-[View Design](YOUR-FIGMA-LINK)
+[View Design](https://www.figma.com/proto/2jwPZ7sbw17DDX5e4Kj8iZ/Sindoor-Product-Page?node-id=4-11&t=XEJ741aEmSgsWSvc-1&scaling=min-zoom&content-scaling=fixed&page-id=4%3A8&starting-point-node-id=4%3A11)
 
 ## Experience
 
